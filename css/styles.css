@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#sarah-schaller-cover {
+    background-image: url("http://i.imgur.com/HGuRakk.jpg");
+}
+
+#sarah-schaller-card {
+    background-image: url("http://i.imgur.com/M2c0Cdz.jpg");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
